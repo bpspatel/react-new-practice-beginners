@@ -1,23 +1,23 @@
 # Question
 
-1. Waht is Emmet ?
+#1. Waht is Emmet ?
 
-Ans: Emmet is a built-in feature of VS Code, it helps you write Html and css fatser by using simple abbtreviations that are then converted into code block.
+#Ans: Emmet is a built-in feature of VS Code, it helps you write Html and css fatser by using simple abbtreviations that are then converted into code block.
 
-2. DIfference between library and Framework ?
+#2. DIfference between library and Framework ?
 
-Ans :
+#Ans :
 
-3. Why is react known as react ?
+#3. Why is react known as react ?
 
-4. What is cross origin in script tag ?
+#4. What is cross origin in script tag ?
 
-Ans: The purpose of crossorigion attribute is used to share the resources from one domain to another demain.
+#Ans: The purpose of crossorigion attribute is used to share the resources from one domain to another demain.
 Basically, it is used to handle CORS request.It is used to handle CORS request whether it is safe to allow for sharing the resources from other domain.The resources may be audio, video, images, link or external script that specifies whether to support the a cross-origin request or not.
 
-CORS: It stands for cross-origin resource sharing.It is a mechanism by which one webpage requests to another domain for fetching out the resource like audio, video, script etc. from third party server without leaking their credentials information.
+#CORS: It stands for cross-origin resource sharing.It is a mechanism by which one webpage requests to another domain for fetching out the resource like audio, video, script etc. from third party server without leaking their credentials information.
 
-VALUES : This attribute contains two values as given :
+#VALUES : This attribute contains two values as given :
 
         #Anonymous : It has a default value.It defines a CORS request which will be sent without passing he credentail informations.
 
