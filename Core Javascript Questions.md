@@ -1,8 +1,9 @@
 # Question
 
 1. Whay is Execution context ?
-Ans : Everything happens in javascript is Execution Content. The Execution context have two component :
 
+ Ans : Everything happens in javascript is Execution Content. The Execution context have two component 
+ 
      i) Memory Component : Memory Component also known as Variable Environment .It stored varaibles and functions  as key value  pairs.
      ii) Code Component : The  Code Component also knowns as Thread of execution. The Code component is a place where the whole code is executed and one line at a time.
 
