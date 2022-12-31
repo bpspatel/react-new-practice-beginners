@@ -66,6 +66,7 @@ Example
 
 Async attribute :  The script is fetched asynchronously, and when it's ready the HTML parsing is 
 paused to execute the script, then it's resumed parsing the HTML.
+Note : Scripts loaded this way are not guaranteed to execute in the order specified, but rather as they become available when they are loaded.
 
 Example 
         HTML
@@ -74,7 +75,7 @@ Example
 
 Defer attribute :  The script is fetched asynchronously and it's executed only after the  HTML parsing is done.
 
-Parsing is finishes just like when we put script at the end of  the body tag, but overall the execution finihes well before, because the script has been downloaded in parallel with hTML parsing.
+Parsing is finishes just like when we put script at the end of the body tag, but overall the execution finihes well before, because the script has been downloaded in parallel with HTML parsing.
 
 
 
