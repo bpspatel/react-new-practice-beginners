@@ -1,0 +1,54 @@
+.headerContainer{
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+}
+
+.nav-items > ul{
+    list-style-type: none;
+    display: flex;
+}
+
+.nav-items > ul > li{
+    padding: 10px;
+}
+
+.logo{
+    width: 90px;;
+}
+.card{
+    width: 200px;
+    border: 1px solid black;
+    padding:10px;
+    margin: 10px;
+}
+
+.card > img{
+    width: 100%;
+}
+
+.restaurant-list{
+    display: flex;
+    flex-wrap:wrap;
+    /* width: 2024px; */
+    width: 100%;
+}
+
+
+.restaurant-list-shimmer{
+    display: flex;
+    flex-wrap:wrap;
+    /* width: 2024px; */
+    width: 100%;
+}
+
+.card-shimmer{
+    width: 200px;
+    border: 2px solid black;
+    padding:10px;
+    margin: 10px;
+    height: 120px;
+    box-shadow: 10px 10px;
+    background-color: lightgrey;
+}
